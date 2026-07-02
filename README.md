@@ -108,7 +108,7 @@ Worked on a QR-based registration and check-in system, including backend validat
 ## 📫 Get in Touch
 
 - **Email:** [luismmendoza.dev@gmail.com](mailto:luismmendoza.dev@gmail.com)
-- **LinkedIn:** [linkedin.com/in/luis-mendoza-80a07a396](https://www.linkedin.com/in/luis-mendoza-80a07a396)
+- **LinkedIn:** [linkedin.com/in/luismendoza-dev](www.linkedin.com/in/luismendoza-dev)
 - **Location:** Asunción, Paraguay
 
 ---
